@@ -1,0 +1,8 @@
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# Office lock files / OS junk
+~$*
+.DS_Store
+Thumbs.db
